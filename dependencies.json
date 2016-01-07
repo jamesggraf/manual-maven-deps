@@ -1,0 +1,12 @@
+{
+	"dependencies": [{
+		"file"       : "blah.jar",
+		"version"    : "1.0",
+		"groupId"    : "blah.groupId",
+		"artifactId" : "blah.artifactId",
+		"packaging"  : "zip"
+	},
+	{
+		"file"       : "mavenDep.jar"
+	}]
+}
